@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git@github.com:soajs/soajs.quick.demo.git"
   },
-  "license" : "Apache-2.0",
+  "license": "Apache-2.0",
   "engines": {
     "node": "*"
   },
@@ -33,7 +33,7 @@
     "shelljs": "0.7.5"
   },
   "dependencies": {
-    "lodash": "4.17.4",
+    "lodash": "4.17.5",
     "stdio": "*",
     "soajs.composer": "1.0.*"
   }
